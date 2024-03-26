@@ -1,0 +1,56 @@
+
+body{
+    margin-inline: 400px;
+}
+
+header p{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 2px solid gray;
+}
+
+img{
+    width: 280px;
+    height: 280px;
+}
+
+#obj{
+    margin-top: 100px;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    padding-left: 300px;
+    margin-top: -250px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+h3{
+    border-top: 1px solid gray;
+    padding-top: 10px;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.9);
+    margin-top: 20px;
+    margin-top: 80px;
+}
+
+#cabecalho ul li{
+    margin-left: 260px;
+}
+
+.formacao{
+    margin-top: -2px;
+}
+
+li {
+    list-style-type: none;
+    padding-bottom: 5px;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+}
